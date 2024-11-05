@@ -1,7 +1,10 @@
-## Hi there 👋
+## Welcome 👋
+
+I'm a DevOps Engineer and Cloud Consultant with a deep-seated passion for technology. My career began with hands-on roles, including computer repair, system administration, and network engineering. This strong technical foundation naturally evolved into a focus on cloud engineering. Over the past 8years, I have gained extensive experience in designing and automating resilient cloud infrastructures across leading platforms such as `AWS`, `Azure`, and `Google` Cloud
 
 <!--
-**lnformbu/lnformbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lnformbu/lnformbu** is a ✨ hello
+ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
