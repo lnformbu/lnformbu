@@ -2,7 +2,7 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Welcome! 👋
+## Welcome! 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 I'm an accomplished DevOps Engineer | Cloud Consultant with over eight years of expertise in designing, automating, and optimizing cloud infrastructure deployments across leading platforms such as `AWS`, `Azure`, and `Google Cloud`. My skill set encompasses advanced proficiency in `Infrastructure as Code` (IaC), `configuration management`, and the development and maintenance of robust `CI/CD pipelines`. 
@@ -12,7 +12,7 @@ I am dedicated to promoting a collaborative team environment and committed to dr
 
 [![Linkedin Badge](https://img.shields.io/badge/-lenonnformbui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenonnformbui/)](https://www.linkedin.com/in/lenonnformbui/) [![Medium Badge](https://img.shields.io/badge/lenonnformbui-12100E?style=flat-square&logo=medium&logoColor=white&link=https:https://medium.com/@lenonnformbui)](https://medium.com/@lenonnformbui) [![Gmail Badge](https://img.shields.io/badge/-lenonnformbui@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenonnformbui@gmail.com)](mailto:lenonnformbui@gmail.com)
 
-#### ⚡Tech Stack
+### ⚡Tech Stack
 
 | Category               | Technologies                                                                                                         |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------|
