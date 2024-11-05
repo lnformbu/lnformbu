@@ -12,7 +12,7 @@ I am dedicated to promoting a collaborative team environment and committed to dr
 
 [![Linkedin Badge](https://img.shields.io/badge/-lenonnformbui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenonnformbui/)](https://www.linkedin.com/in/lenonnformbui/) [![Medium Badge](https://img.shields.io/badge/lenonnformbui-12100E?style=flat-square&logo=medium&logoColor=white&link=https:https://medium.com/@lenonnformbui)](https://medium.com/@lenonnformbui) [![Gmail Badge](https://img.shields.io/badge/-lenonnformbui@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenonnformbui@gmail.com)](mailto:lenonnformbui@gmail.com)
 
-# ⚡Tech Stack
+#### ⚡Tech Stack
 
 | Category               | Technologies                                                                                                         |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------|
