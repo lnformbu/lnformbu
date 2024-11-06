@@ -5,14 +5,19 @@
 </div>
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-👋, I'm Lenon Nformbui!
-I am an accomplished DevOps Engineer | Cloud Consultant with over eight years of experience in designing, automating, and optimizing cloud infrastructure deployments across leading platforms such as AWS, Azure, and Google Cloud. My expertise includes advanced proficiency in Infrastructure as Code (IaC), configuration management, and the development and maintenance of robust CI/CD pipelines.
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
 
-I am passionate about fostering a collaborative team environment and committed to driving the successful implementation of industry best practices within dynamic, fast-paced organizations.
+<div style="text-align: left; flex: 1;">
+    <p>👋, I'm <strong>Lenon Nformbui!</strong></p>
+    <p>I am an accomplished <strong>DevOps Engineer | Cloud Consultant</strong> with over eight years of experience in designing, automating, and optimizing cloud infrastructure deployments across leading platforms such as <strong>AWS</strong>, <strong>Azure</strong>, and <strong>Google Cloud</strong>. My expertise includes advanced proficiency in <strong>Infrastructure as Code (IaC)</strong>, <strong>configuration management</strong>, and the development and maintenance of robust <strong>CI/CD pipelines</strong>.</p>
+    <p>I am passionate about fostering a collaborative team environment and committed to driving the successful implementation of industry best practices within dynamic, fast-paced organizations.</p>
+</div>
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. lenon%20nformbui) -->
+<div>
+    <img src="img/coding.gif" alt="CODING GIF" width="300">
+</div>
 
-<br>
+</div>
 
 #### 🌐 let's Connect:
 
@@ -21,9 +26,8 @@ I am passionate about fostering a collaborative team environment and committed t
 
 _____
 
-<div align="center">
-    <img src="img/coding.gif" alt="CODING GIF">
-</div>
+
+
 
 
 #### ⚡My Tech Stack
