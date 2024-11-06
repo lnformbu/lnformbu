@@ -1,10 +1,14 @@
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-## Welcome! 👋
+<div align="center">
+    <img src="img/hello.gif" alt="Hello GIF">
+</div>
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I'm an accomplished DevOps Engineer | Cloud Consultant with over eight years of expertise in designing, automating, and optimizing cloud infrastructure deployments across leading platforms such as `AWS`, `Azure`, and `Google Cloud`. My skill set encompasses advanced proficiency in `Infrastructure as Code` (IaC), `configuration management`, and the development and maintenance of robust `CI/CD pipelines`. 
-I am dedicated to promoting a collaborative team environment and committed to driving the successful implementation of industry best practices within dynamic, fast-paced organizations. 
+👋, I'm Lenon Nformbui!
+I am an accomplished DevOps Engineer | Cloud Consultant with over eight years of experience in designing, automating, and optimizing cloud infrastructure deployments across leading platforms such as AWS, Azure, and Google Cloud. My expertise includes advanced proficiency in Infrastructure as Code (IaC), configuration management, and the development and maintenance of robust CI/CD pipelines.
+
+I am passionate about fostering a collaborative team environment and committed to driving the successful implementation of industry best practices within dynamic, fast-paced organizations.
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. lenon%20nformbui) -->
 
@@ -16,6 +20,11 @@ I am dedicated to promoting a collaborative team environment and committed to dr
 [![Linkedin Badge](https://img.shields.io/badge/-lenonnformbui-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenonnformbui/)](https://www.linkedin.com/in/lenonnformbui/) [![Medium Badge](https://img.shields.io/badge/lenonnformbui-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@lenonnformbui)](https://medium.com/@lenonnformbui) [![Gmail Badge](https://img.shields.io/badge/-lenonnformbui@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lenonnformbui@gmail.com)](mailto:lenonnformbui@gmail.com)
 
 _____
+
+<div align="center">
+    <img src="img/coding.gif" alt="CODING GIF">
+</div>
+
 
 #### ⚡My Tech Stack
 
@@ -42,3 +51,4 @@ _____
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=lnformbu%2Flnformbu&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=lnformbu%2Flnformbu)
 
 _____
+
