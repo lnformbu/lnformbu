@@ -10,14 +10,15 @@
 <div style="text-align: left; flex: 1;">
     <p>👋, I'm <strong>Lenon Nformbui!</strong></p>
     <p>I am an accomplished <strong>DevOps Engineer | Cloud Consultant</strong> with over eight years of experience in designing, automating, and optimizing cloud infrastructure deployments across leading platforms such as <strong>AWS</strong>, <strong>Azure</strong>, and <strong>Google Cloud</strong>. My expertise includes advanced proficiency in <strong>Infrastructure as Code (IaC)</strong>, <strong>configuration management</strong>, and the development and maintenance of robust <strong>CI/CD pipelines</strong>.</p>
-    <p>I am passionate about fostering a collaborative team environment and committed to driving the successful implementation of industry best practices within dynamic, fast-paced organizations.</p>
-</div>
+    </div>
 
 <div>
     <img src="img/coding.gif" alt="CODING GIF" width="300">
 </div>
 
 </div>
+    <p>I am passionate about fostering a collaborative team environment and committed to driving the successful implementation of industry best practices within dynamic, fast-paced organizations.</p>
+
 
 #### 🌐 let's Connect:
 
